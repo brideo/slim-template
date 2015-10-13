@@ -1,0 +1,14 @@
+{
+    "name": "brideo/slim-template",
+    "require": {
+        "slim/slim": "~2.0",
+        "slim/views": "*",
+        "twig/twig": "^1.22"
+    },
+    "authors": [
+        {
+            "name": "Nathan McBride",
+            "email": "nathan@brideo.co.uk"
+        }
+    ]
+}

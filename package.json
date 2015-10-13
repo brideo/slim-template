@@ -1,0 +1,29 @@
+{
+  "name": "slim-template",
+  "version": "1.0.0",
+  "description": "Slim Template",
+  "main": "Gulpfile.js",
+  "dependencies": {
+    "gulp-sass": "^2.0.4",
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brideo/slim-template.git"
+  },
+  "keywords": [
+    "GulpJS",
+    "Slim",
+    "Twig"
+  ],
+  "author": "Nathan McBride",
+  "license": "Open Access",
+  "bugs": {
+    "url": "https://github.com/brideo/slim-template/issues"
+  },
+  "homepage": "https://github.com/brideo/slim-template"
+}
