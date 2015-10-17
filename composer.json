@@ -3,7 +3,13 @@
     "require": {
         "slim/slim": "~2.0",
         "slim/views": "*",
-        "twig/twig": "^1.22"
+        "twig/twig": "^1.22",
+        "illuminate/database": "*",
+        "robmorgan/phinx": "^0.4.6"
+    },
+    "autoload": {
+        "files": [ "app/config.php" ],
+        "classmap": [ "app/models" ]
     },
     "authors": [
         {
